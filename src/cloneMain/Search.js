@@ -30,6 +30,7 @@ const Search = ({ onSubmit }) => {
           <img src={functions} alt='functions' className='functions' />
         </div>
       </div>
+      {/* <div className='descriptionVideo'>Multik Action</div> */}
     </>
   );
 };
