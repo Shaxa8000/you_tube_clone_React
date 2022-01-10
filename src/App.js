@@ -4,6 +4,7 @@ import URL from './cloneMain/api/URL';
 import './Design.css';
 import Video from './cloneMain/Video';
 import ListVideos from './cloneMain/ListVideos';
+import Sidebar from './cloneMain/Sidebar';
 
 const App = () => {
   const [videos, setVideos] = useState([]);
